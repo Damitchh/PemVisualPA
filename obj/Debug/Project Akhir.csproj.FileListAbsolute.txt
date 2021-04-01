@@ -1,0 +1,27 @@
+C:\Users\Asus\source\repos\Project Akhir\Project Akhir\bin\Debug\Project Akhir.exe.config
+C:\Users\Asus\source\repos\Project Akhir\Project Akhir\bin\Debug\Project Akhir.exe
+C:\Users\Asus\source\repos\Project Akhir\Project Akhir\bin\Debug\Project Akhir.pdb
+C:\Users\Asus\source\repos\Project Akhir\Project Akhir\obj\Debug\Project Akhir.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Project Akhir\Project Akhir\obj\Debug\Project_Akhir.Form1.resources
+C:\Users\Asus\source\repos\Project Akhir\Project Akhir\obj\Debug\Project_Akhir.Properties.Resources.resources
+C:\Users\Asus\source\repos\Project Akhir\Project Akhir\obj\Debug\Project Akhir.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Project Akhir\Project Akhir\obj\Debug\Project Akhir.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Project Akhir\Project Akhir\obj\Debug\Project Akhir.exe
+C:\Users\Asus\source\repos\Project Akhir\Project Akhir\obj\Debug\Project Akhir.pdb
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\bin\Debug\Project Akhir.exe.config
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\bin\Debug\Project Akhir.exe
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\bin\Debug\Project Akhir.pdb
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project Akhir.csprojAssemblyReference.cache
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project_Akhir.Login.resources
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project_Akhir.Menu.resources
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project_Akhir.Properties.Resources.resources
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project Akhir.csproj.GenerateResource.cache
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project Akhir.csproj.CoreCompileInputs.cache
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project Akhir.exe
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project Akhir.pdb
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project_Akhir.Kenangan.resources
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project_Akhir.Mahasiswa.resources
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project_Akhir.CariKenangan.resources
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project_Akhir.TambahDataMahasiswa.resources
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project_Akhir.LihatDataMahasiswa.resources
+D:\COURSE\Semester 3\Pemrograman Visual\Project\Project Akhir\Project Akhir\obj\Debug\Project_Akhir.ShowAllData.resources
